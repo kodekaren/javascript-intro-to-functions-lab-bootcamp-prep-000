@@ -8,5 +8,5 @@ function whisper(string) {
 }
 "HELLO"
 function logShout(string) {
-  console.log()
+  console.log("HELLO")
 }
