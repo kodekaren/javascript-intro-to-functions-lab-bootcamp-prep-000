@@ -16,6 +16,6 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   var uppercase = "HELLO"
-  uppercase.ToUpperCase() === uppercase
+  "HELLO".ToUpperCase() === uppercase
   return string()
 }
