@@ -20,4 +20,3 @@ function string(string) {
 function sayHiToGrandma(string) {
   return string()
 }
-
