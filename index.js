@@ -19,4 +19,3 @@ function sayHiToGrandma(string) {
   uppercase.ToUpperCase() === uppercase
   return string()
 }
-
